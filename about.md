@@ -4,12 +4,20 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+Hi, I'm Tealeaf! I'm a raccoon furry (and fursuiter) from Canada.
 
-### More Information
+### About the blog
 
-A place to include any other types of information that you'd like to include about yourself.
+This blog is an outlet for the various thoughts I have about the [furry fandom](https://en.wikipedia.org/wiki/Furry_fandom). Most posts will fall into one of two categories: furry data analysis, or fursuiting. I'm a statistician by trade, but a complete novice to fursuiting, so my contributions to each of these topics will probably reflect this!
+
+### About Tealeaf
+
+Tealeaf was created by artist extraodinaire [Matrices](https://en.wikipedia.org/wiki/Furry_fandom), and debuted at [Midwest Furfest](https://furfest.org/) in 2016. He's a Canadian raccoon of British heritage, whose name comes from his love of tea in particular and the natural world in general (although it's no coincidence that 'tea leaf' is cockney rhyming slang for 'thief'!).
+
+### About Me
+
+When not pretending to be a raccoon on the Internet, I work as a statistics professor at a Canadian university. Part of my work focuses on communicating statistics to non-statistical audiences, which I hope will come in handy on this blog!
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+Questions or comments? Contact me on Twitter [@TealeafRaccoon](https://twitter.com/tealeafraccoon) or email [tealeafraccoon@gmail.com](mailto:tealeafraccoon@gmail.com)
