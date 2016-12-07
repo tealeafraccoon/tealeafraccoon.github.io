@@ -12,7 +12,7 @@ This blog is an outlet for the various thoughts I have about the [furry fandom](
 
 ### About Tealeaf
 
-Tealeaf was created by artist extraodinaire [Matrices](https://en.wikipedia.org/wiki/Furry_fandom), and debuted at [Midwest Furfest](https://furfest.org/) in 2016. He's a Canadian raccoon of British heritage, whose name comes from his love of tea in particular and the natural world in general (although it's no coincidence that 'tea leaf' is cockney rhyming slang for 'thief'!).
+Tealeaf was created by artist extraodinaire [Matrices](http://www.matrices.net/), and debuted at [Midwest Furfest](https://furfest.org/) in 2016. He's a Canadian raccoon of British heritage, whose name comes from his love of tea in particular and the natural world in general (although it's no coincidence that 'tea leaf' is cockney rhyming slang for 'thief'!).
 
 ### About Me
 
