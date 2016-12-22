@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Hello, world!
+title: Foxes: statistically significant subs?
 ---
 
 The furry fandom is full of stereotypes, but in my experience the most pervasive (and long-lasting) concerns the sexual proclivities of foxes. The claim that 'all foxes are sluts' is so ubiquitous, in fact, that I was surprised to find no-one had taken the time to verify it with data. Luckily, I'm a statistician, a furry, and (clearly) have too much spare time, so I had a look myself.
