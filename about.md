@@ -16,7 +16,7 @@ Tealeaf was created by artist extraodinaire [Matrices](http://www.matrices.net/)
 
 ### About Me
 
-When not pretending to be a raccoon on the Internet, I work as a statistics professor at a Canadian university. Part of my work focuses on communicating statistics to non-statistical audiences, which I hope will come in handy on this blog!
+When not pretending to be a raccoon on the Internet, I work as a statistics professor. Part of my work focuses on communicating statistics to non-statistical audiences, which I hope will come in handy on this blog!
 
 ### Contact me
 
