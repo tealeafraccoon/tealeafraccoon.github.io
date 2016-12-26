@@ -13,9 +13,9 @@ So, the headline: in a sample of 207 images from the furry image board [e621.net
 
 ### So, how did I get here?
 
-While this may seem a simplistic (and certainly unsurprising) result, there is considerably more nuance to this problem than meets the eye. By far the most difficult - and under-appreciated - element of any statistical analysis is working out precisely what question you're trying to answer, and then finding the data to answer it. Here, my starting point was the crudely-phrased stereotype that all foxes are sluts, and my first job was working out how to turn this into a question I could gather data to answer in an objective a manner as possible.
+While this may seem a simplistic (and certainly unsurprising) result, there is considerably more nuance to this problem than meets the eye. By far the most difficult - and under-appreciated - element of any statistical analysis is working out precisely what question you're trying to answer, and then finding the data to answer it. Here, my starting point was the crudely-phrased stereotype that all foxes are sluts, and my first job was working out how to turn this into a question I could gather data to answer in as objective a manner as possible.
 
-A key aspect of this process is to form a dataset that is as unambiguous as possible. There is clear potential here for a lot of subjectivity, and to ensure fair results this subjectivity has to be minimized. Fairly quickly, I decided that the question would have to be restricted to whether foxes were more likely to top or bottom in a sexual context involving two partners. I'll acknowledge up front that this is quite a simplification, but it allowed me to form a dataset based around relatively simple rules.
+A key aspect of this process is to form a dataset that is largely unambiguous. There is clear potential here for a lot of subjectivity, and to ensure fair results this subjectivity has to be minimized. Fairly quickly, I decided that the question would have to be restricted to whether foxes were more likely to top or bottom in a sexual context involving two partners. I'll acknowledge up front that this is quite a simplification, but it allowed me to form a dataset based around relatively simple rules.
 
 #### It's all about sex (and penises)
 
