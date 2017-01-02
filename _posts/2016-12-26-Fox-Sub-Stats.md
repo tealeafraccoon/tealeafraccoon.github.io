@@ -5,6 +5,8 @@ title: Foxes - statistically significant subs?
 
 [Content warning: the following features discussion of furry pornography and cold, hard, p-values.]
 
+**Update**: I address a few questions/comments in a follow-up post [here](https://tealeafraccoon.github.io/Fox-FAQs/)!
+
 The furry fandom is full of stereotypes, but in my experience the most pervasive (and long-lasting) concerns the sexual proclivities of foxes. The claim that 'all foxes are sluts' is so ubiquitous, in fact, that I was surprised I couldn't easily find someone who'd verified it with data. Luckily, I'm a statistician, a furry, and (clearly) have too much spare time, so I had a look myself.
 
 I imagine most of those who read this are primarily interested in the conclusion, so I'll get that out of the way first. (For those interested in the methodology, and the various assumptions I decided to make, I go into a *lot* more detail below.)
