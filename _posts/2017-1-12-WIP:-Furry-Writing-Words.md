@@ -2,6 +2,8 @@
 layout: post
 title: Work in Progress - Word Frequencies in Furry Writing
 ---
+*Comments/questions? The easiest place is [the original Tweet](https://twitter.com/tealeafraccoon/status/819571302352687108)!*
+
 A very quick post here with a work in progress. Below is a word cloud of the text of around 2000 stories I scraped from [SoFurry](http://www.sofurry.com/) a while back. As is typical with these things, I've stripped out the 500 most common English words, but beyond that it's basically just a word frequency summary (i.e., larger font size indicates the word appears more often) of the most common 100 'non-common' words.
 
 I should stress I haven't really done anything sophisticated here, and this should be thought of as just a bit of fun rather than 'statistics' in any real sense. In particular, the data source is just the story content (via SoFurry's API) which I ran through an HTML converter I whipped up in [R](https://en.wikipedia.org/wiki/R_(programming_language)). This means that I haven't filtered out things like author preambles, so there's probably a bit of interference there. The dataset comes in at about 13 million words, with over 23,000 'cocks', 13,000 'dragons', and nearly 14,000 'insides'.
