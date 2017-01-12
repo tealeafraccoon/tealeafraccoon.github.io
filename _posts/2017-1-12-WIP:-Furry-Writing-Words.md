@@ -12,4 +12,4 @@ I should stress I haven't really done anything sophisticated here, and this shou
 
 Word cloud courtesy of [this](https://github.com/amueller/word_cloud) rather funky Python generator!
 
-I have a few ideas for where to go with these data - right now I'm working on comparing the relative frequency of words in furry writing to English in general, which is throwing up some quite entertaining results; watch this space for that. I'm also interested in doing some more 'statsy' comparisons of SFW and NSFW content SoFurry's API is currently being renovated, so I can't do too much more for the time being, but figured I'd put this out while it's fresh in my mind!
+I have a few ideas for where to go with these data - right now I'm working on comparing the relative frequency of words in furry writing to English in general, which is throwing up some quite entertaining results; watch this space for that. I'm also interested in doing some more 'statsy' comparisons of SFW and NSFW content. SoFurry's API is currently being renovated, so I can't do too much more for the time being, but figured I'd put this out while it's fresh in my mind!
