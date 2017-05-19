@@ -1,6 +1,6 @@
 ---
 layout: post
-title: ''How do you *see* in that thing?!'' - fursuiting while visually impaired
+title: How do you *see* in that thing?! - fursuiting while visually impaired
 ---
 
 <img align="right" alt="pretty plz?" src="http://gdurl.com/WM_w" width="200"/>
