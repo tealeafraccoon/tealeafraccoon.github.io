@@ -25,7 +25,7 @@ We can investigate the former through something known as a [power transform](htt
 
 [figure2]: http://gdurl.com/8Als "Curve time"
 
-The right-hand plot shows the 'straight-line' relationship the analysis has determined (if you look at the y-axis you'll see it's not scaled in the same way), while the left-hand plot shows the original data with a curve corresponding to the equation that has been fit. I'm not super happy with this model - there's a slight pattern in the right-hand plot that would concern me if this was a more serious analysis - but it'll do for now. For the equation fans out there, the final model is 'Attendance⁰⋅²²² = -562.8 + 0.2845×Year', and would estimate 2017 total con attendance at about 48,815. We'll see how that goes at the end of the year!
+The right-hand plot shows the 'straight-line' relationship the analysis has determined (if you look at the y-axis you'll see it's not scaled in the same way), while the left-hand plot shows the original data with a curve corresponding to the equation that has been fit. I'm not super happy with this model - there's a slight pattern in the right-hand plot that would concern me if this was a more serious analysis - but it'll do for now. For the equation fans out there, the final model is 'Attendance⁰⋅²²² = -562.8 + 0.2845×Year', and would estimate 2017 total con attendance at about 49,300. We'll see how that goes at the end of the year!
 
 ##### If you don't like curves...
 
@@ -37,7 +37,7 @@ Of course, we want a more objective way of establishing these relationships than
 
 [figure3]: http://gdurl.com/Xc8V "Line fun"
 
-This approach does a reasonable job in fitting the relationship in the later years, but 1990-2005 looks like a poor approximation to me, so make of that what you will. (In case it's of interest, this model predicts 2017 con attendance of about 50,810, pretty similar to the prediction of the exponential model.)
+This approach does a reasonable job in fitting the relationship in the later years, but 1990-2005 looks like a poor approximation to me, so make of that what you will. (In case it's of interest, this model predicts 2017 con attendance of about 50,800, pretty similar to the prediction of the exponential model.)
 
 ###### *Con*clusions
 
