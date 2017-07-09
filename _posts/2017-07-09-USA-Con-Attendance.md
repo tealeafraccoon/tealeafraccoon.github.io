@@ -2,7 +2,7 @@
 layout: post
 title: USA Furry Convention Attendance - An Exploratory Analysis
 ---
-After an exciting trip to Anthrocon, what better cure for PCD than playing with furry convention attendance data? I grabbed the numbers from [this](http://en.wikifur.com/wiki/Timeline_of_conventions_by_attendance) wikifur page, which claims to list every 'convention' with at least 100 attendees. This immediately presents some problems, which I'm not going to try and deal with, but will at least mention in the interests of transparency:
+After an exciting trip to Anthrocon, what better cure for PCD than playing with furry convention attendance data? I grabbed the numbers from [this](http://en.wikifur.com/wiki/Timeline_of_conventions_by_attendance) wikifur page, which claims to list every 'convention' with at least 100 attendees. This immediately presents some problems, which for an informal analysis I'm definitely not going to try and deal with, but will at least mention in the interests of transparency:
 
 - It's a wiki, so there's going to be a lot of error and missing data. (There are various statistical ways of handling these issues, but nobody's got time for that on a Sunday.)
 - 'Convention' means different things to different people. For example, the UK LondonFurs meets regularly surpass the 100 attendee figure, but aren't listed (nor are their summer and winter events), whereas various FurBowls and other one-day events are included. This kinda falls under the 'it's a wiki' issue.
