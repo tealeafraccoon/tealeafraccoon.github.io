@@ -2,7 +2,7 @@
 layout: post
 title: USA Furry Convention Attendance - An Exploratory Analysis
 ---
-After an exciting trip to Anthrocon, what better cure for PCD than playing with furry convention attendance data? I grabbed the numbers from [this](http://en.wikifur.com/wiki/Timeline_of_conventions_by_attendance) wikifur page, which claims to list every 'convention' with at least 100 attendees. This immediately presents some problems, which for an informal analysis I'm definitely not going to try and deal with, but will at least mention in the interests of transparency:
+After an exciting trip to Anthrocon, what better cure for PCD than playing with furry convention attendance data? I grabbed the numbers from [this](http://en.wikifur.com/wiki/Timeline_of_conventions_by_attendance) wikifur page, which claims to list every 'convention' with at least 100 attendees. This immediately presents some problems, which given how informal this is I'm definitely not going to try and deal with, but will at least mention in the interests of transparency:
 
 - It's a wiki, so there's going to be a lot of error and missing data. (There are various statistical ways of handling these issues, but nobody's got time for that on a Sunday.)
 - 'Convention' means different things to different people. For example, the UK LondonFurs meets regularly surpass the 100 attendee figure, but aren't listed (nor are their summer and winter events), whereas various FurBowls and other one-day events are included. This kinda falls under the 'it's a wiki' issue.
@@ -15,17 +15,17 @@ With all that said, and a reminder that none of what follows is presented with a
 
 [figure1]: http://gdurl.com/CAxu "Rawr data"
 
-First impressions count, and with this beauty we can see a couple of possibilities. One is that the growth rate looks like it could be some kind of exponential function (i.e., growing faster and faster over time), the other is whether we're actually looking at two (or more) straight-line patterns that are joining together (more on this in a minute).
+First impressions count, and with this beauty we can see a couple of possibilities. One is that the growth rate looks like it could be some kind of exponential function (i.e., growing faster and faster over time), the other is we could be looking at two (or more) straight-line patterns that are joining together (more on this in a minute).
 
 ##### Transform and roll out
 
-We can look at the former through a trick known as a [Box-Cox transformation](https://en.wikipedia.org/wiki/Power_transform#Box.E2.80.93Cox_transformation). This is a bit mathy (so don't worry about it too much if it looks boring/scary), but the basic idea is to try and change the y-axis numbers (the attendance figures) in such a way as to make the relationship between year and attendance look like a straight line. A common approach is to take the square root, or a logarithm, but the fundamental principle is to apply the same transformation to every point. Once we find the best way to transform the data, we can 'un-transform' to get a curve on the original scale. I'm personally always a bit mistrustful of this approach, but it does serve a purpose, and if we run the numbers we get a curve that looks like this:
+We can investigate the former through something known as a [power transform](https://en.wikipedia.org/wiki/Power_transform). This is a bit mathy (so don't worry about it too much if it looks boring/scary), but the basic idea is to try and change the y-axis numbers (the attendance figures) in such a way as to make the relationship between year and attendance look like a straight line. A common approach is to take the square root, or a logarithm, but the fundamental principle is to apply the same transformation to every point. Once we find the best way to transform the data (I actually used a [Box-Cox transformation](https://en.wikipedia.org/wiki/Power_transform#Box.E2.80.93Cox_transformation), stats-fans), we can 'un-transform' to get a curve on the original scale. I'm personally always a bit mistrustful of this approach, but it does serve a purpose, and if we run the numbers we get a curve that looks like this:
 
 ![alt text][figure2]
 
 [figure2]: http://gdurl.com/8Als "Curve time"
 
-The right-hand plot shows the 'straight-line' relationship the analysis has determined (if you look at the y-axis you'll see it's not scaled in the same way), while the left-hand plot shows the original data with a curve corresponding to the equation that has been fit. I'm not super happy with this fit - there's a slight pattern in the right-hand plot that would concern me if this was a more serious analysis - but it'll do for now. For the equation fans out there, the final model is 'convention attendance^0.222 = -562.8 + year*0.2845', and would estimate 2017 total con attendance at about 48,815. We'll see how that goes at the end of the year!
+The right-hand plot shows the 'straight-line' relationship the analysis has determined (if you look at the y-axis you'll see it's not scaled in the same way), while the left-hand plot shows the original data with a curve corresponding to the equation that has been fit. I'm not super happy with this model - there's a slight pattern in the right-hand plot that would concern me if this was a more serious analysis - but it'll do for now. For the equation fans out there, the final model is 'convention attendance<sup>0.222</sup> = -562.8 + year*0.2845', and would estimate 2017 total con attendance at about 48,815. We'll see how that goes at the end of the year!
 
 ##### If you don't like curves...
 
@@ -37,10 +37,10 @@ Of course, we want a more objective way of establishing these relationships than
 
 [figure3]: http://gdurl.com/Xc8V "Line fun"
 
-This approach does a reasonable job in fitting the relationship in the later years, but 1990-2005 looks like a poor approximation to me. (In case it's of interest, this model predicts 2017 con attendance of about 50,810, pretty similar to the prediction of the exponential model.)
+This approach does a reasonable job in fitting the relationship in the later years, but 1990-2005 looks like a poor approximation to me, so make of that what you will. (In case it's of interest, this model predicts 2017 con attendance of about 50,810, pretty similar to the prediction of the exponential model.)
 
 ###### *Con*clusions
 
-Overall, I'm more convinced by the Box-Cox fit than the piecewise linear one; it works better visually (and does a little better if we formally test the model fit) and I reckon an exponential relationship makes more intuitive sense for population growth. What does seem unambiguous is some sort of change beginning in 2005, which not only shows up very strongly in the original data, but is also reinforced by the piecewise linear model (I'm not so convinced by the proposed 2012 changepoint, but I suppose time will tell on that front).
+Overall, I'm more convinced by the power transform fit than the piecewise linear one; it seems to visually fit the data well (and does a little better if we test the two model fits more formally) and I reckon an exponential relationship makes more intuitive sense for population growth. What does seem unambiguous is some sort of change beginning in 2005, which not only shows up very strongly in the original data, but is also reinforced by the piecewise linear model (I'm not so convinced by the proposed 2012 changepoint, but I suppose time will tell on that front).
 
-With such limited data we can't hope to do more than speculate as to why, but I do wonder if we're seeing a millennial effect start to take hold around the 2005 mark. Most studies put this generation beginning in the early 1980s, and so perhaps we're seeing this group start to find themselves with the independence and disposable income to start attending (or maybe even running) cons in earnest from around the early 2000s. There are countless other possible explanations, however, so if you have any ideas of your own please let me know!
+With such limited data we can't hope to do more than speculate as to why, but I do wonder if we're seeing a 'millennial effect' start to take hold around the 2005 mark. Most studies put this generation beginning in the early 1980s, and so perhaps we're seeing this group start to find themselves with the independence and disposable income to start attending (or maybe even running) cons in earnest from around the early 2000s. There are countless other possible explanations, however, and I'd love to hear yours - you can contact me by emali (see 'About', above) or on Twitter [@tealeafraccoon](https://twitter.com/tealeafraccoon/).
