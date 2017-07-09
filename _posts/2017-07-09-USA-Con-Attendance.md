@@ -25,7 +25,7 @@ We can investigate the former through something known as a [power transform](htt
 
 [figure2]: http://gdurl.com/8Als "Curve time"
 
-The right-hand plot shows the 'straight-line' relationship the analysis has determined (if you look at the y-axis you'll see it's not scaled in the same way), while the left-hand plot shows the original data with a curve corresponding to the equation that has been fit. I'm not super happy with this model - there's a slight pattern in the right-hand plot that would concern me if this was a more serious analysis - but it'll do for now. For the equation fans out there, the final model is 'convention attendance<sup>0.222</sup> = -562.8 + year*0.2845', and would estimate 2017 total con attendance at about 48,815. We'll see how that goes at the end of the year!
+The right-hand plot shows the 'straight-line' relationship the analysis has determined (if you look at the y-axis you'll see it's not scaled in the same way), while the left-hand plot shows the original data with a curve corresponding to the equation that has been fit. I'm not super happy with this model - there's a slight pattern in the right-hand plot that would concern me if this was a more serious analysis - but it'll do for now. For the equation fans out there, the final model is 'Attendance<sup>0.222</sup> = -562.8 + 0.2845×Year', and would estimate 2017 total con attendance at about 48,815. We'll see how that goes at the end of the year!
 
 ##### If you don't like curves...
 
