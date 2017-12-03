@@ -3,7 +3,7 @@ layout: post
 title: Mini-post - the rise of Midwest FurFest
 ---
 
-Anthrocon's 17-year reign as the world's biggest furry convention is over. As many had anticipated, the 2017 edition of Midwest Furfest eclipsed the 7,544 mark set earlier this year by its Pittsburgh counterpart, with ['around'](https://twitter.com/midwestfurfest/status/937460887564308481) 8,700 furries descending on Chicago's Hyatt Regency O'Hare. I'm not going to comment on whether furries care too much about who's on top (:eyes:), but this gives me an excuse to make graphs, and I would be a Bad Statistician if I didn't take it. (Although full disclosure: there is approximately zero Actual Stats in this, sorry.)
+Anthrocon's 17-year reign as the world's biggest furry convention is over. As many had anticipated, the 2017 edition of Midwest Furfest eclipsed the 7,544 mark set earlier this year by its Pittsburgh counterpart, with ['around'](https://twitter.com/midwestfurfest/status/937460887564308481) 8,700 furries descending on Chicago's Hyatt Regency O'Hare. I'm not going to comment on whether furries care too much about who's on top [eyes emoji], but this gives me an excuse to make graphs, and I would be a Bad Statistician if I didn't take it. (Although full disclosure: there is approximately zero Actual Stats in this, sorry.)
 
 ##### Growing Up
 
