@@ -3,9 +3,9 @@ layout: post
 title: Call for panel volunteers - disability and the fandom at Anthrocon 2018
 ---
 
-<img align="right" alt="pretty plz?" src="http://gdurl.com/WM_w" width="200"/>
-
 Will you be attending Anthrocon 2018? Do you consider yourself to have a disability? Does your disability affect how you engage with the fandom? Would you be willing to talk about this in a panel setting at the con? Do you like raccoons? Then I'd love to hear from you!
+
+<img align="right" alt="A raccoon fursuiter points to a Snellen chart with a brown sitck. The letters on the chart read 'P LZ STO PCAL LINGU STRASH PANDAS?" src="http://gdurl.com/RcrC" width="200"/>
 
 (Ok, the liking raccoons thing isn't mandatory. But it is encouraged.)
 
