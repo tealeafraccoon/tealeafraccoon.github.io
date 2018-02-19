@@ -5,9 +5,9 @@ title: Call for panel volunteers - disability and the fandom at Anthrocon 2018
 
 Will you be attending Anthrocon 2018? Do you consider yourself to have a disability? Does your disability affect how you engage with the fandom? Would you be willing to talk about this in a panel setting at the con? Do you like raccoons? Then I'd love to hear from you!
 
-<img align="right" alt="A raccoon fursuiter points to a Snellen chart with a brown sitck. The letters on the chart read 'P LZ STO PCAL LINGU STRASH PANDAS?" src="http://gdurl.com/RcrC" width="200"/>
-
 (Ok, the liking raccoons thing isn't mandatory. But it is encouraged.)
+
+<img align="right" alt="A raccoon fursuiter points to a Snellen chart with a brown sitck. The letters on the chart read 'P LZ STO PCAL LINGU STRASH PANDAS?" src="http://gdurl.com/RcrC" width="200"/>
 
 As someone with a severe, lifelong visual impairment, disability affects most aspects of my daily life. Moreover, it directly affects my relationship with the furry fandom, often in unexpected ways, and I imagine those with other disabilities have similar stories to tell. To try and help share them, I'm coordinating a panel for Anthrocon this year to talk about some of these issues, partly because I think it'd just be interesting, but also to help raise awareness of what I feel is an often overlooked topic in our community.
 
